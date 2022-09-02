@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NathanAbney
-- 👀 I’m interested in app development.
-- 🌱 I’m currently learning Linux commands.
-- 💞️ I’m looking to collaborate on all computer-related projects.
-- 📫 How to reach me abneyna@miamioh.edu
+- 👀 I’m interested in pretty much all software.
+- 🌱 I’m currently learning about computer algorithms.
+- 💞️ I’m looking to collaborate on all software/creative projects.
+- 📫 How to reach me: abneyna@miamioh.edu
 
 <!---
 NathanAbney/NathanAbney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
